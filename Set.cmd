@@ -1,1 +1,0 @@
-PnPUtil -i -a *.inf
